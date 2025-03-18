@@ -1,5 +1,5 @@
 ## Hi there, I am Sebin T S 👋
-### 🚀 Cloud & DevOps Architect | TOGAF | AWS | Azure | Kubernetes | Terraform | Security
+### 🚀 Cloud & DevOps Architect | TOGAF | Azure | AWS | Kubernetes | Terraform | Security
 As a passionate Cloud & DevOps Enthusiast, I specialize in designing and developing scalable, secure, and cost-efficient cloud solutions on Azure and AWS. With deep expertise in infrastructure automation, CI/CD, and cloud security, I thrive on solving complex architectural challenges and driving business transformation through cloud technologies. I love leveraging the power of cloud computing to create highly available and resilient architectures that align with modern DevOps and SRE best practices.
 
 ---
