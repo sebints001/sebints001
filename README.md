@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 1️⃣ **CloudInfra-App-Toolbox** 🚀
 A **toolbox** for automating **Cloud Infrastructure** provisioning using **Terraform & Ansible**.
-- 🔹 **Tech Stack**: AWS, Terraform, Ansible, CI/CD
+- 🔹 **Tech Stack**: Azure, Terraform, Ansible, CI/CD
 - 🔹 **Features**: Automated Infrastructure Deployment, Security Hardening, Cost Optimization
 - 🔹 **Repo Link**: [CloudInfra-App-Toolbox](https://github.com/YourGitHubUsername/CloudInfra-App-Toolbox)
 
