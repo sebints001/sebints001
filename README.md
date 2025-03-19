@@ -50,8 +50,13 @@ A cloud-native **healthcare solution** built with **serverless architecture** an
 - 📌 **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
 - 📌 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 ---
+## 🌐 Cloud Frameworks & Models
+- **Well-Architected Framework (AWS & Azure)** - Best practices for designing reliable, secure, and efficient cloud workloads.
+- **Cloud Adoption Framework (CAF)** - Strategic guidance for cloud adoption and migration.
+- **Zero Trust Security Model** - A security approach ensuring strict identity verification and least privilege access.
+---
 ## 🔗 Connect with Me
 
-🌐 [LinkedIn](https://www.linkedin.com/in/sebints) | ✉️ [Email](mailto:sebints@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sebints) | ✉️ [Email](mailto:sebints@gmail.com)
 
 💡 *Always exploring innovative cloud solutions and DevOps automation. Let's connect!* 🚀
