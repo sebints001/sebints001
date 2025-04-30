@@ -29,18 +29,18 @@ Here are some ideas to get you started:
 A **toolbox** for automating **Cloud Infrastructure** provisioning using **Terraform & Ansible**.
 - 🔹 **Tech Stack**: Azure, Terraform, Ansible, CI/CD
 - 🔹 **Features**: Automated Infrastructure Deployment, Security Hardening, Cost Optimization
-- 🔹 **Repo Link**: [CloudInfra-App-Toolbox](https://github.com/YourGitHubUsername/CloudInfra-App-Toolbox)
+- 🔹 **Repo Link**: [CloudInfra-App-Toolbox](https://github.com/sebints001/CloudInfra-App-Toolbox)
 
 ### 2️⃣ **DotNetMicroservice** 🏗
 A **.NET-based Microservices** template with **Kubernetes, Docker, and CI/CD integration**.
 - 🔹 **Tech Stack**: .NET, Kubernetes, Docker, Azure DevOps
 - 🔹 **Features**: Scalable, Secure, API Gateway with APIGEE
-- 🔹 **Repo Link**: [DotNetMicroservice](https://github.com/YourGitHubUsername/DotNetMicroservice)
+- 🔹 **Repo Link**: [DotNetMicroservice](https://github.com/sebints001/DotNetMicroservice)
 
 ### 3️⃣ **HealthcareSolution** 🏥
 A cloud-native **healthcare solution** built with **serverless architecture** and **event-driven processing**.
 - 🔹 **Tech Stack**: Azure Functions, CosmosDB, Event Grid, Security
-- 🔹 **Repo Link**: [HealthcareSolution](https://github.com/YourGitHubUsername/HealthcareSolution)
+- 🔹 **Repo Link**: [HealthcareSolution](https://github.com/sebints001/HealthcareSolution)
 ---
 ## 📜 Certifications
 
